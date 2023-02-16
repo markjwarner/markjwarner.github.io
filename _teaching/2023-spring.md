@@ -8,5 +8,5 @@ date: 2023-05-01
 location: "London, UK"
 ---
 
-Over the summer of 2023, I will be leading the MSC in Information Security Disseration Projects
+Over the summer of 2023, I will be leading the MSc in Information Security Disseration Projects
 
