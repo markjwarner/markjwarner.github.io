@@ -1,12 +1,10 @@
 ---
-title: "Turning the Lights on to Keep Them in the Fold: How Governments Preempt Secession Attempts"
+title: "“Oops...”: Mobile Message Deletion in Conversation Error and Regret Remediation"
 collection: publications
-permalink: /publication/2021-conflict-preemption
-date: 2021-06-28
-venue: 'Conflict management and Peace Science'
-paperurl: '/files/pdf/research/Turning the Lights on.pdf'
-link: 'https://doi.org/10.1177/07388942211015242'
-code: 'https://journals.sagepub.com/doi/suppl/10.1177/07388942211015242'
-github: 'https://github.com/jayrobwilliams/conflict-preemption'
-citation: 'Williams, Rob. 2021. &quot;Turning the Lights on to Keep Them in the Fold: How Governments Preempt Secession Attempts.&quot; <i>Conflict management and Peace Science</i> doi:10.1177/07388942211015242'
+permalink: /publication/2021-oops
+date: 2021-05-08
+venue: 'CHI Conference on Human Factors in Computing Systems'
+paperurl: 'https://doi.org/10.1145/3411764.3445118'
+link: 'https://doi.org/10.1145/3411764.3445118'
+citation: 'Warner, M., Lascau, L., Cox, A. L., Brumby, D. P., & Blandford, A. 2021. &quot;Oops...&quot;: Mobile Message Deletion in Conversation Error and Regret Remediation <i>In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (pp. 1-13).</i>'
 ---
