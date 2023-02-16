@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -32,7 +32,6 @@ Completed projects
 
 - Privacy unravelling in online social environments (Marie Skłodowska-Curie PhD fellowship): drawing on theory from the fields of psychology, economics, sociology, and evolutionary biology, to understand people’s online social behaviours. This work was especially interested in how people manage privacy around sensitive information in online social spaces and in particular, the impact non-disclosures can have through the social effect of privacy unravelling. [<a href="https://doi.org/10.1007/978-3-030-21752-5_4">cscw'18</a>], [<a href="https://doi.org/10.1145/3290605.3300922">chi'19</a>], [<a href="http://doi.org/10.1145/3313831.3376150">chi'20</a>]
 
-
 Education
 ======
 - *PhD in Computer Science / Human-Computer Interaction,* 2020   
@@ -53,6 +52,7 @@ Latest Updates News
 - My PhD student Lauren Scott has had a paper accepted at CHI 2023!
 - I won a Google Faculty Award (2023) grant with Ruba-Abu Salma (KCL) on Usable Privacy in Female Health Apps.
 - I started a new role as Lecturer in Information Security at University College London (UCL) as of September 2022. 
+- I joined the CHI Understanding People (Qualitative) sub-committee as an Associate Chair (AC) for 2023
 - I have had a research project funded through REPHRAIN, this project aims to understand whether a keyboard could be designed to provide guidance and support to people as they type, and to notify them of any harmful content contained within the message in order to reduce the likelihood of them pressing send.
 - I had a paper accepted to CHI'21 titled “Oops...”: Mobile Message Deletion in Conversation Error and Regret Remediation. This paper explored people's use of the message delete function in mobile messaging apps like WhatsApp. 
 - I have accepted an invitiation to serve as a Review Editor for Frontiers in Digital Health Human Factors and Digital Health
