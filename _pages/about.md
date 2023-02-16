@@ -54,18 +54,19 @@ Work Experience
 ======
 Prior to academia, I worked as an advisor in digital forensics for a criminal investigations department in the Middle East. I was responsible for developing enhanced capabilities for extracting, analysing, and processing data from electronic devices in criminal investigations. Prior to this, I was working for various law enforcement agencies within the UK, focused on developing advanced mobile forensics data recovery techniques.
 
-Latest Updates News
+Updates
 ======
-- I have been awarded a grant which I am very excited about (details to follow)
-- My PhD student Lauren Scott has had a paper accepted at CHI 2023!
-- I won a Google Faculty Award (2023) grant with Ruba-Abu Salma (KCL) on Usable Privacy in Female Health Apps.
-- I started a new role as Lecturer in Information Security at University College London (UCL) as of September 2022. 
-- I joined the CHI Understanding People (Qualitative) sub-committee as an Associate Chair (AC) for 2023
-- I have had a research project funded through REPHRAIN, this project aims to understand whether a keyboard could be designed to provide guidance and support to people as they type, and to notify them of any harmful content contained within the message in order to reduce the likelihood of them pressing send.
-- I had a paper accepted to CHI'21 titled “Oops...”: Mobile Message Deletion in Conversation Error and Regret Remediation. This paper explored people's use of the message delete function in mobile messaging apps like WhatsApp. 
-- I have accepted an invitiation to serve as a Review Editor for Frontiers in Digital Health Human Factors and Digital Health
-- I joined the CSCW program committee as an Associate Chair (AC) for 2021
-- A UKRI (AHRC) project that I am Co-I has been funded (£400,000)
-- I had a paper accepted at SOUPS 2020 with lead author Agnieszka Kitkowska
-- I had a paper accepted at CHI'20 titled Evaluating ‘Prefer not to say’ Around Sensitive Disclosures which reports the findings from a constrolled online experiment looking to understand the impact of non-disclosures of sensitive information in online social environments
-- I am serving as an AC for CHI'20 LBW track
+- Feb-23: I have been awarded a grant which I am very excited about (details to follow)
+- Feb-23: My PhD student Lauren Scott has had a paper accepted at CHI 2023!
+- Jan-23: I won a Google Faculty Award (2023) grant with Ruba-Abu Salma (KCL) on Usable Privacy in Female Health Apps.
+- Sep-22: I joined the CHI Understanding People (Qualitative) sub-committee as an Associate Chair (AC) for 2023
+- Sep-22: I started a new role as Lecturer in Information Security at University College London (UCL) as of September 2022. 
+- Jul-22: New baby arrived!
+- Sep-21: I have had a research project funded through REPHRAIN, this project aims to understand whether a keyboard could be designed to provide guidance and support to people as they type, and to notify them of any harmful content contained within the message in order to reduce the likelihood of them pressing send.
+- Jan-21: I had a paper accepted to CHI'21 titled “Oops...”: Mobile Message Deletion in Conversation Error and Regret Remediation. This paper explored people's use of the message delete function in mobile messaging apps like WhatsApp. 
+- Jan-21: I have accepted an invitiation to serve as a Review Editor for Frontiers in Digital Health Human Factors and Digital Health
+- Jan-21: I joined the CSCW program committee as an Associate Chair (AC) for 2021
+- Nov-20: A UKRI (AHRC) project that I am Co-I has been funded (~£400,000)
+- May-20: I had a paper accepted at SOUPS 2020 with lead author Agnieszka Kitkowska
+- Jan-20: I had a paper accepted at CHI'20 titled Evaluating ‘Prefer not to say’ Around Sensitive Disclosures which reports the findings from a constrolled online experiment looking to understand the impact of non-disclosures of sensitive information in online social environments
+- Jan-20: I am serving as an AC for CHI'20 LBW track
