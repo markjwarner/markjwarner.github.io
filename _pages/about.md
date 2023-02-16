@@ -30,9 +30,11 @@ Completed projects
 
 [Publications](https://www.omddac.org.uk/publications/){: .btn--research} [Website](https://www.omddac.org.uk){: .btn--research} 
 
-- Errors and Regrets in CMC (UCL CS): This project explored errors and regretful messages within messaging applications. In particular, it focused on understanding how users both use and perceive the use of the message "delete for all" functional introduced across most modern day instant messaging applications. [<a href="https://doi.org/10.1145/3411764.3445118">chi'21</a>]
+- Errors and Regrets in CMC (UCL CS): This project explored errors and regretful messages within messaging applications. In particular, it focused on understanding how users both use and perceive the use of the message "delete for all" functional introduced across most modern day instant messaging applications.
 
-- Privacy unravelling in online social environments (Marie Skłodowska-Curie PhD fellowship): drawing on theory from the fields of psychology, economics, sociology, and evolutionary biology, to understand people’s online social behaviours. This work was especially interested in how people manage privacy around sensitive information in online social spaces and in particular, the impact non-disclosures can have through the social effect of privacy unravelling. [<a href="https://doi.org/10.1007/978-3-030-21752-5_4">cscw'18</a>], [<a href="https://doi.org/10.1145/3290605.3300922">chi'19</a>], [<a href="http://doi.org/10.1145/3313831.3376150">chi'20</a>]
+[CSCW'21 Pub](https://doi.org/10.1145/3411764.3445118){: .btn--research}
+
+- Privacy unravelling in online social environments (Marie Skłodowska-Curie PhD fellowship): drawing on theory from the fields of psychology, economics, sociology, and evolutionary biology, to understand people’s online social behaviours. This work was especially interested in how people manage privacy around sensitive information in online social spaces and in particular, the impact non-disclosures can have through the social effect of privacy unravelling.
 
 [CSCW'18 Pub](https://doi.org/10.1007/978-3-030-21752-5_4){: .btn--research} [CHI'19 Pub](https://doi.org/10.1145/3290605.3300922){: .btn--research} [CHI'20 Pub](http://doi.org/10.1145/3313831.3376150){: .btn--research} 
 
