@@ -26,7 +26,8 @@ I am currently accepting PhD students.
 
 Completed projects
 ======
-- Observatory for Monitoring Data Driven Approach to COVID-19 (AHRC): OMDDAC researched data-driven approaches to Covid-19, focusing on legal, ethical, policy and operational/technical challenges. Ther project analysed key data-driven responses to Covid-19 and collated lessons learned throughout the pandemic by way of stakeholder interviews, case study analysis, representative public surveys and practitioner-focussed guidelines. <a href="https://www.omddac.org.uk/publications/">OMDDAC Publications</a>
+- Observatory for Monitoring Data Driven Approach to COVID-19 (AHRC): OMDDAC researched data-driven approaches to Covid-19, focusing on legal, ethical, policy and operational/technical challenges. Ther project analysed key data-driven responses to Covid-19 and collated lessons learned throughout the pandemic by way of stakeholder interviews, case study analysis, representative public surveys and practitioner-focussed guidelines. 
+[OMDDAC Publications](https://www.omddac.org.uk/publications/){: .btn--research} 
 
 - Errors and Regrets in CMC (UCL CS): This project explored errors and regretful messages within messaging applications. In particular, it focused on understanding how users both use and perceive the use of the message "delete for all" functional introduced across most modern day instant messaging applications. [<a href="https://doi.org/10.1145/3411764.3445118">chi'21</a>]
 
