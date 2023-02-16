@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer (Assistant Professor) of Information Security in the computer and sciences department at University College London (UCL), and am part of the information security research group (Infosec). 
+I am a Lecturer (Assistant Professor) of Information Security in the computer sciences department at University College London (UCL), and am part of the information security research group. 
 
 In addition to my computer science background, I have an interest in the fields of psychology and sociology. I draw from these disciplines in my research which is centred around understanding and improving various online social interactions and computer and AI-mediated communication behaviours. In particular, I am interested in how social computing technologies can be designed to reduce online harms such as cyberbullying and misinformation spread. Whilst this is my primary area of research, I am also interested in research at the intersection of technology, crime and policing having previously spent over 10 years working within digital policing. 
 
 Current research projects
 ======
-- Effective warnings to prevent Authorised Push Payment (APP): This project is investigating the effectiveness of existing warnings at preventing APP fraud payments, and developing and evaluating novel warning mechanisms.
+- Effective warnings to prevent Authorised Push Payment (APP) frauds: This project is investigating the effectiveness of existing online banking warnings at preventing APP fraud payments, and developing and evaluating novel warning mechanisms.
 - Usable Privacy in Female Health Apps (Google Faculty Award): This project is exploring usable privacy mechanisms within female health apps.
 - Key2Kindness (REPHRAIN funded): This interdisciplinary project is investigating the role of proactive hate speech awareness mechanisms in reducing the production of hate speech across online social platforms.
 
