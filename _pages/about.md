@@ -14,6 +14,8 @@ In addition to my computer science background, I have an interest in the fields 
 
 Current research projects
 ======
+- Effective warnings to prevent Authorised Push Payment (APP): This project is investigating the effectiveness of existing warnings at preventing APP fraud payments, and developing and evaluating novel warning mechanisms.
+- Usable Privacy in Female Health Apps (Google Faculty Award): This project is exploring usable privacy mechanisms within female health apps.
 - Key2Kindness (REPHRAIN funded): This interdisciplinary project is investigating the role of proactive hate speech awareness mechanisms in reducing the production of hate speech across online social platforms.
 
 Current PhD Supervision
@@ -49,7 +51,7 @@ Latest Updates News
 ======
 - I have been awarded a grant which I am very excited about (details to follow)
 - My PhD student Lauren Scott has had a paper accepted at CHI 2023!
-- I won a Google Faculty Award grant with Ruba-Abu Salma (KCL) on privacy in fertility tracking apps.
+- I won a Google Faculty Award (2023) grant with Ruba-Abu Salma (KCL) on Usable Privacy in Female Health Apps.
 - I started a new role as Lecturer in Information Security at University College London (UCL) as of September 2022. 
 - I have had a research project funded through REPHRAIN, this project aims to understand whether a keyboard could be designed to provide guidance and support to people as they type, and to notify them of any harmful content contained within the message in order to reduce the likelihood of them pressing send.
 - I had a paper accepted to CHI'21 titled “Oops...”: Mobile Message Deletion in Conversation Error and Regret Remediation. This paper explored people's use of the message delete function in mobile messaging apps like WhatsApp. 
