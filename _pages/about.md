@@ -27,18 +27,23 @@ I am currently accepting PhD students.
 Completed projects
 ======
 - Observatory for Monitoring Data Driven Approach to COVID-19 (AHRC): OMDDAC researched data-driven approaches to Covid-19, focusing on legal, ethical, policy and operational/technical challenges. Ther project analysed key data-driven responses to Covid-19 and collated lessons learned throughout the pandemic by way of stakeholder interviews, case study analysis, representative public surveys and practitioner-focussed guidelines. 
-[OMDDAC Publications](https://www.omddac.org.uk/publications/){: .btn--research} 
+
+[Publications](https://www.omddac.org.uk/publications/){: .btn--research} [Website](https://www.omddac.org.uk){: .btn--research} 
 
 - Errors and Regrets in CMC (UCL CS): This project explored errors and regretful messages within messaging applications. In particular, it focused on understanding how users both use and perceive the use of the message "delete for all" functional introduced across most modern day instant messaging applications. [<a href="https://doi.org/10.1145/3411764.3445118">chi'21</a>]
 
 - Privacy unravelling in online social environments (Marie Skłodowska-Curie PhD fellowship): drawing on theory from the fields of psychology, economics, sociology, and evolutionary biology, to understand people’s online social behaviours. This work was especially interested in how people manage privacy around sensitive information in online social spaces and in particular, the impact non-disclosures can have through the social effect of privacy unravelling. [<a href="https://doi.org/10.1007/978-3-030-21752-5_4">cscw'18</a>], [<a href="https://doi.org/10.1145/3290605.3300922">chi'19</a>], [<a href="http://doi.org/10.1145/3313831.3376150">chi'20</a>]
+
+[CSCW'18 Pub](https://doi.org/10.1007/978-3-030-21752-5_4){: .btn--research} [CHI'19 Pub](https://doi.org/10.1145/3290605.3300922){: .btn--research} [CHI'20 Pub](http://doi.org/10.1145/3313831.3376150){: .btn--research} 
 
 Education
 ======
 - *PhD in Computer Science / Human-Computer Interaction,* 2020   
   University College London, UK  
   Advisor: Professor Ann Blandford
-  Thesis: [Signalling and Unravelling: (Non)Disclosure of HIV Status Information in Sex-Social Apps Used by Men Who Have Sex With Men](https://thesis.com) 
+  Thesis: [Signalling and Unravelling: (Non)Disclosure of HIV Status Information in Sex-Social Apps Used by Men Who Have Sex With Men]
+
+  [Thesis](hhttps://discovery.ucl.ac.uk/id/eprint/10099555/1/WARNER_Thesis_Submit.pdf){: .btn--research}
 
 - *MSc in Security Management,* 2016  
   University of Portsmouth, UK  
