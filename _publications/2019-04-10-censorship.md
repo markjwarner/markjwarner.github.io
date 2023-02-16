@@ -1,7 +1,7 @@
 ---
 title: "Self-censorship in Social Networking Sites (SNSs) – Privacy concerns, privacy awareness, perceived vulnerability and information management"
 collection: publications
-permalink: /publication/2019-04-10-censorship
+permalink: /publications/2019-04-10-censorship
 excerpt: 'This paper aims to investigate behavioural changes related to self-censorship (SC) in social networking sites (SNSs) as new methods of online surveillance are introduced. In particular, it examines the relationships between SC and four related factors: privacy concerns (PC), privacy awareness (PA), perceived vulnerability (PV) and information management (IM).'
 date: 2019-04-10
 venue: 'Journal of Information, Communication and Ethics in Society.'
