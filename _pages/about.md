@@ -22,7 +22,7 @@ Current PhD Supervision
 ======
 - Lauren Scott (PhD Candidate) - Conducting social computing research into how family networks and affected by online misinformation, and how they could act as a resource to help reduce its impact. 
 
-I am currently accepting PhD students.
+I am currently accepting PhD students. Email me: mark(dot)warner(at)ucl(dot)ac(dot)uk
 
 Completed projects
 ======
