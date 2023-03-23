@@ -14,10 +14,7 @@ In addition to my computer science background, I have an interest in the fields 
 
 Office hours (2022/23)
 ======
-Monday (10:00 - 10:50, online) - <!-- ScheduleOnce button START -->
-<button id="SOIBTN_SalesTeamPage-8KYHGT7D5L" style="background: #006DAF; color: #ffffff; padding: 10px 20px; border: 1px solid #c8c8c8; font: bold 14px Arial; cursor: pointer;" data-height="580" data-psz="00" data-so-page="SalesTeamPage-8KYHGT7D5L" data-delay="1">Schedule an Appointment</button>
-<script type="text/javascript" src="https://cdn.oncehub.com/mergedjs/so.js"></script>
-<!-- ScheduleOnce button END -->
+Monday (10:00 - 10:50, online) - <a href="https://go.oncehub.com/MarkWarner">Click here</a> to book a meeting ourside of this time.
 
 
 Current research projects
