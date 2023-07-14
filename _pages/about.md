@@ -19,13 +19,14 @@ Monday (10:00 - 10:50, online) - <a href="https://go.oncehub.com/MarkWarner">Cli
 
 Current research projects
 ======
+- Child Sexual Abuse Conversation Dataset (CSAC): The development of a child sexual abuse conversation dataset, this project will lead to advances in our understanding of how perpetrators of child sex grooming engage online with young people through computer-mediated communication tools and platforms. The dataset will, for the first time, provide researchers with access to real-world grooming conversations (offender side only), laying the foundations for work into reactive and proactive mechanisms for limiting this behaviour across platforms, and improving digital investigation workflows (REPHRAIN Funded).
 - Effective warnings to prevent Authorised Push Payment (APP) frauds: This project is investigating the effectiveness of existing online banking warnings at preventing APP fraud payments, and developing and evaluating novel warning mechanisms.
-- Usable Privacy in Female Health Apps (Google Faculty Award): This project is exploring usable privacy mechanisms within female health apps.
-- Key2Kindness (REPHRAIN funded): This interdisciplinary project is investigating the role of proactive hate speech awareness mechanisms in reducing the production of hate speech across online social platforms.
+- Usable Privacy in Female Health Apps: This project is exploring usable privacy mechanisms within female health apps (Google Faculty Award Funded).
+- Key2Kindness (REPHRAIN funded): This interdisciplinary project is investigating the role of proactive hate speech awareness mechanisms in reducing the production of hate speech across online social platforms (REPHRAIN Funded).
 
 Current PhD Supervision
 ======
-- Lauren Scott (PhD Candidate) - Conducting social computing research into how family networks and affected by online misinformation, and how they could act as a resource to help reduce its impact. 
+- Lauren Scott (PhD Candidate) - Conducting social computing research into how family networks are affected by online misinformation, and how they could act as a resource to help reduce its impact. 
 
 I am currently accepting PhD students. Email me: mark(dot)warner(at)ucl(dot)ac(dot)uk
 
@@ -61,12 +62,15 @@ Prior to academia, I worked as an advisor in digital forensics for a criminal in
 
 Updates
 ======
-- Feb-23: I have been awarded a grant which I am very excited about (details to follow)
+- Jun-23: Started our REPHRAIN funded project to built a novel new conversation dataset.
+- Jun-23: My PhD student, Lauren Scott has had a short paper accepted at INTERACT'23!
+- Apr-23: Started a Google Funded project exploring privacy mechanisms within FemTech apps.
+- Feb-23: I have been awarded a grant which I am very excited about (details to follow).
 - Feb-23: My PhD student Lauren Scott has had a paper accepted at CHI 2023!
 - Jan-23: I won a Google Faculty Award (2023) grant with Ruba-Abu Salma (KCL) on Usable Privacy in Female Health Apps.
 - Sep-22: I joined the CHI Understanding People (Qualitative) sub-committee as an Associate Chair (AC) for 2023
-- Sep-22: I started a new role as Lecturer in Information Security at University College London (UCL) as of September 2022. 
-- Jul-22: New baby arrived!
+- Sep-22: I started a new role as Lecturer in Information Security at University College London (UCL). 
+- Jul-22: New baby arrived (called Otis)!
 - Sep-21: I have had a research project funded through REPHRAIN, this project aims to understand whether a keyboard could be designed to provide guidance and support to people as they type, and to notify them of any harmful content contained within the message in order to reduce the likelihood of them pressing send.
 - Jan-21: I had a paper accepted to CHI'21 titled “Oops...”: Mobile Message Deletion in Conversation Error and Regret Remediation. This paper explored people's use of the message delete function in mobile messaging apps like WhatsApp. 
 - Jan-21: I have accepted an invitiation to serve as a Review Editor for Frontiers in Digital Health Human Factors and Digital Health
