@@ -62,6 +62,7 @@ Prior to academia, I worked as an advisor in digital forensics for a criminal in
 
 Updates
 ======
+- Jun-23: I joined the CHI Understanding People (Qualitative) sub-committee as an Associate Chair (AC) for another year (CHI'2024). 
 - Jun-23: Started our REPHRAIN funded project to built a novel new conversation dataset.
 - Jun-23: My PhD student, Lauren Scott has had a short paper accepted at INTERACT'23!
 - Apr-23: Started a Google Funded project exploring privacy mechanisms within FemTech apps.
