@@ -14,11 +14,12 @@ In addition to my computer science background, I have an interest in the fields 
 
 Office hours (2022/23)
 ======
-Monday (10:00 - 10:50, online) - <a href="https://go.oncehub.com/MarkWarner">Click here</a> to book a meeting outside of this time.
+<a href="https://go.oncehub.com/MarkWarner">Click here</a> to book a meeting with me.
 
 
 Current research projects
 ======
+- Towards a Smart Digital Forensic Triage Tool to Support Police First Responders (TRIAGE) - ESRC funded project starting March 2024.
 - Child Sexual Abuse Conversation Dataset (CSAC): The development of a child sexual abuse conversation dataset, this project will lead to advances in our understanding of how perpetrators of child sex grooming engage online with young people through computer-mediated communication tools and platforms. The dataset will, for the first time, provide researchers with access to real-world grooming conversations (offender side only), laying the foundations for work into reactive and proactive mechanisms for limiting this behaviour across platforms, and improving digital investigation workflows (REPHRAIN Funded).
 - Effective warnings to prevent Authorised Push Payment (APP) frauds: This project is investigating the effectiveness of existing online banking warnings at preventing APP fraud payments, and developing and evaluating novel warning mechanisms.
 - Usable Privacy in Female Health Apps: This project is exploring usable privacy mechanisms within female health apps (Google Faculty Award Funded).
@@ -26,7 +27,9 @@ Current research projects
 
 Current PhD Supervision
 ======
-- Lauren Scott (PhD Candidate) - Conducting social computing research into how family networks are affected by online misinformation, and how they could act as a resource to help reduce its impact. 
+- Lisa Mekioussa Malki - Online privacy research (topic being developed)
+- Kyle Beadle - Community-based surveillance and moderation
+- Lauren Scott - Conducting social computing research into how family networks are affected by online misinformation, and how they could act as a resource to help reduce its impact. 
 
 I am currently accepting PhD students. Email me: mark(dot)warner(at)ucl(dot)ac(dot)uk
 
@@ -62,6 +65,7 @@ Prior to academia, I worked as an advisor in digital forensics for a criminal in
 
 Updates
 ======
+- Sep-23: I was awarded an ESRC grant (£550,000) to explore policing needs around the seizure of digital evidence at crime scenes.  
 - Jun-23: I joined the CHI Understanding People (Qualitative) sub-committee as an Associate Chair (AC) for another year (CHI'2024). 
 - Jun-23: Started our REPHRAIN funded project to built a novel new conversation dataset.
 - Jun-23: My PhD student, Lauren Scott has had a short paper accepted at INTERACT'23!
