@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Research Fellow in HCI - Opening"
-excerpt: "Research Fellow in HCI - Opening"
+permalink: /job/
 author_profile: true
-redirect_from: 
-  - /careers/
-  - /forensic-job-2024.html
 ---
 
 Research Fellow - Human-Computer Interaction in Policing and Digital Forensics (UCL <a href="https://www.ucl.ac.uk/human-resources/pay-benefits/salary-scales">Pay Grade</a> 7)
