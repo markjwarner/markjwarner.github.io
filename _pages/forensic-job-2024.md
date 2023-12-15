@@ -21,7 +21,7 @@ We are seeking an HCI researcher or someone from a closely related field (e.g., 
 
 Learning more about the position
 ======
-I will be holding an online information session via Zoom on the 10th January 2024 (11:00 - 12:00) https://ucl.zoom.us/j/92684181758?pwd=RGIrMXExZVFxb1VCZytSWDU3dHdydz09 (Meeting ID: 926 8418 1758
+I will be holding an online information session via Zoom on the 10th January 2024 (11:00 - 12:00) <a href="https://ucl.zoom.us/j/92684181758?pwd=RGIrMXExZVFxb1VCZytSWDU3dHdydz09"> Join Zoom</a> (Meeting ID: 926 8418 1758
 Passcode: 857630). Otherwise, if you are interested in this project then please get in touch with Dr Mark Warner.
 
 Application material
