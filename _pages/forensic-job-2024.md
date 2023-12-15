@@ -5,14 +5,13 @@ permalink: /job/
 author_profile: true
 ---
 
-In January 2024 we will advertising for a Research Fellow position in Human-Computer Interaction (HCI) in Policing and Digital Forensics to work on an exciting new ESRC funded project working with three Police agencies. You would explore existing practices, resources, challenges, and identify user needs around the search and seizure of digital evidence (e.g., smart phones, laptops) across two crime types (homicide, stalking and harassment). Ultimatly, this project will work towards the development of a smart digital forensic advisor (SDFA) tool to support first responders conducting digital evidence triage at-scene to reducing backlog in digital devices waiting to be examined, and to create more consistent and evidence informed practices around the initial seizure of digital evidence. 
+In January 2024 we will advertising for a Research Fellow in Human-Computer Interaction (HCI) in Policing and Digital Forensics to work on an exciting new ESRC funded project working with three Police agencies. You would explore existing practices, resources, challenges, and identify user needs around the search and seizure of digital evidence (e.g., smart phones, laptops) across two crime types (homicide, stalking and harassment). Ultimately, this project will work towards the development of a smart digital forensic advisor (SDFA) tool to support first responders conducting digital evidence triage at-scene to reducing backlog in digital devices waiting to be examined, and to create more consistent and evidence informed practices around the initial seizure of digital evidence. 
 
 This position will be funded for 1 year (starting 1 March 2024) in the first instance. Appointment at <a href="https://www.ucl.ac.uk/human-resources/pay-benefits/salary-scales">Pay Grade</a> 7 is dependent upon having been awarded a PhD; if this is not the case, initial appointment will be at Research Assistant Grade 6B (Salary £37,332 - £39,980 per annum, including London Allowance) with payment at Grade 7 being backdated to the date of final submission of the PhD thesis (including corrections). 
 
 What would you be doing?
 ======
-The sucessful candidate would work within an interdisaplinary team of academics, and work alongside a criminologist to support the review of criminal case material, and conduct and analyse interviews with user-groups and stakeholders. The sucessful candidate would lead the design of a series of early-stage design prototypes and run workshops with user-groups and stakeholders to evaluate these designs. 
-
+The successful candidate would work within an interdisciplinary team of academics, and work alongside a criminologist to support the review of criminal case material, and conduct and analyse interviews with user-groups and stakeholders. The successful candidate would lead the design of a series of early-stage design prototypes and run workshops with user-groups and stakeholders to evaluate these designs. 
 
 What are we looking for?
 ======
@@ -21,8 +20,7 @@ We are seeking an HCI researcher or someone from a closely related field (e.g., 
 
 Learning more about the position
 ======
-I will be holding an online information session via Zoom on the 10th January 2024 (11:00 - 12:00) <a href="https://ucl.zoom.us/j/92684181758?pwd=RGIrMXExZVFxb1VCZytSWDU3dHdydz09"> Join Zoom</a> (Meeting ID: 926 8418 1758
-Passcode: 857630). Otherwise, if you are interested in this project then please get in touch with Dr Mark Warner.
+I will be holding an online information session via Zoom on the 10th January 2024 (11:00 - 12:00) <a href="https://ucl.zoom.us/j/98548077098?pwd=bkpnUEFxZlBLSXhLaWpEdDRvem84QT09"> Join Zoom</a> (Meeting ID: 985 4807 7098 Passcode: 417012). Otherwise, if you are interested in this project then please get in touch with Dr Mark Warner.
 
 Application material
 ======
@@ -32,7 +30,7 @@ Application material
 
 Submission portal
 ======
-Announced soon
+Announced soon (early Jan 2024). 
 
 Important dates
 ======
