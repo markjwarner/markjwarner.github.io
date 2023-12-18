@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Lecturer (Assistant Professor) of Information Security in the Computer Science Department at University College London (UCL), and am part of the Information Security Research Group (<a href="https://sec.cs.ucl.ac.uk">sec.cs.ucl.ac.uk</a>). 
 
-In addition to my computer science background, I have an interest in the fields of psychology and sociology. I draw from these disciplines in my research which is centred around understanding and improving various online social interactions and computer and AI-mediated communication behaviours. In particular, I am interested in how social computing technologies can be designed to reduce online harms such as cyberbullying and misinformation spread. Whilst this is my primary area of research, I am also interested in research at the intersection of technology, crime and policing having previously spent over 10 years working within digital policing. 
+In addition to my computer science background, I have an interest in the fields of psychology and sociology. I draw from these disciplines in my research which is centred around understanding and improving various online social interactions and computer and AI-mediated communication behaviours. In particular, I am interested in how social computing technologies can be designed to reduce online harms such as cyberbullying, child abuse, and misinformation spread. Whilst this is my primary area of research, I am also interested in research at the intersection of technology, crime and policing having previously spent over 10 years working within digital policing/forensics. 
 
 Office hours (2022/23)
 ======
@@ -30,6 +30,18 @@ Current PhD Supervision
 - Lisa Mekioussa Malki - Online privacy research (topic being developed)
 - Kyle Beadle - Community-based surveillance and moderation
 - Lauren Scott - Conducting social computing research into how family networks are affected by online misinformation, and how they could act as a resource to help reduce its impact. 
+
+I am currently accepting PhD student applications. Email me: mark(dot)warner(at)ucl(dot)ac(dot)uk
+
+Current Research Fellows/Assistants
+======
+None
+
+Past Research Fellows/Assistants
+======
+- Ms. Liying Yang (completing here PhD at Northumbria University)
+- Dr Husnain Rafiq (now Lecturer in Cyber Security at Edge Hill University)
+- Dr Selina Sutton (OMDDAC)
 
 I am currently accepting PhD students. Email me: mark(dot)warner(at)ucl(dot)ac(dot)uk
 
@@ -67,7 +79,7 @@ Updates
 ======
 - Sep-23: I was awarded an ESRC grant (£550,000) to explore policing needs around the seizure of digital evidence at crime scenes.  
 - Jun-23: I joined the CHI Understanding People (Qualitative) sub-committee as an Associate Chair (AC) for another year (CHI'2024). 
-- Jun-23: Started our REPHRAIN funded project to built a novel new conversation dataset.
+- Jun-23: Started our REPHRAIN funded project to build a novel new conversation dataset.
 - Jun-23: My PhD student, Lauren Scott has had a short paper accepted at INTERACT'23!
 - Apr-23: Started a Google Funded project exploring privacy mechanisms within FemTech apps.
 - Feb-23: I have been awarded a grant which I am very excited about (details to follow).
