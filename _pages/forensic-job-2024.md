@@ -30,7 +30,7 @@ Application material
 
 Submission portal
 ======
-Announced soon (early Jan 2024). 
+To apple, please click <a href="https://www.ucl.ac.uk/work-at-ucl/redeployment/details?jobId=18882">here</a>
 
 Important dates
 ======
