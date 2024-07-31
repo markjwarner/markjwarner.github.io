@@ -35,11 +35,12 @@ I am currently accepting PhD student applications. Email me: mark(dot)warner(at)
 
 Current Research Fellows/Assistants
 ======
-None
+- Dr Catherine O'Brien (Research Fellow, Triage Project)
+- Dr Valeria Abreu Minero (Snr. Research Fellow, Triage Project)
 
 Past Research Fellows/Assistants
 ======
-- Ms. Liying Yang (completing here PhD at Northumbria University)
+- Ms Liying Yang (completing here PhD at Northumbria University)
 - Dr Husnain Rafiq (now Lecturer in Cyber Security at Edge Hill University)
 - Dr Selina Sutton (OMDDAC)
 
