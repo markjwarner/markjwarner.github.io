@@ -19,6 +19,7 @@ Office hours (2022/23)
 
 Current research projects
 ======
+- Usability and User Experience of Content Report Tools (UseCRT): This project is investigating the usability and user experience of online content reporting tools design to support people to report incidents of harassment (REPHRAIN funded)
 - Towards a Smart Digital Forensic Triage Tool to Support Police First Responders (TRIAGE) - ESRC funded project starting March 2024.
 - Child Sexual Abuse Conversation Dataset (CSAC): The development of a child sexual abuse conversation dataset, this project will lead to advances in our understanding of how perpetrators of child sex grooming engage online with young people through computer-mediated communication tools and platforms. The dataset will, for the first time, provide researchers with access to real-world grooming conversations (offender side only), laying the foundations for work into reactive and proactive mechanisms for limiting this behaviour across platforms, and improving digital investigation workflows (REPHRAIN Funded).
 - Effective warnings to prevent Authorised Push Payment (APP) frauds: This project is investigating the effectiveness of existing online banking warnings at preventing APP fraud payments, and developing and evaluating novel warning mechanisms.
@@ -78,6 +79,11 @@ Prior to academia, I worked as an advisor in digital forensics for a criminal in
 
 Updates
 ======
+- Oct-24: I presented the Triage project initial findings at a webinar hosted by The Chartered Society of Forensic Sciences
+- Oct-24: I was awarded (and started) a REPHRAIN funded project to look at the usability and user experience of online content reporting tools.
+- Sep-24: Dr Val Abreu presented an abstract at Eurocrime'24 on the Triage project.
+- Mar-24: We kicked off the ESRC Triage project with an incredible launch event with some of our key stakeholders
+- Jan-24: We had a CHI'24 paper accepted from our Google Project on Usable Privacy in Female Health Apps
 - Sep-23: I was awarded an ESRC grant (£550,000) to explore policing needs around the seizure of digital evidence at crime scenes.  
 - Jun-23: I joined the CHI Understanding People (Qualitative) sub-committee as an Associate Chair (AC) for another year (CHI'2024). 
 - Jun-23: Started our REPHRAIN funded project to build a novel new conversation dataset.
