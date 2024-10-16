@@ -16,16 +16,6 @@ Office hours (2024/25)
 ======
 <a href="https://go.oncehub.com/MarkWarner">Click here</a> to book a meeting with me.
 
-
-Current research projects
-======
-- Usability and User Experience of Content Report Tools (UseCRT): This project is investigating the usability and user experience of online content reporting tools design to support people to report incidents of harassment (REPHRAIN funded)
-- Towards a Smart Digital Forensic Triage Tool to Support Police First Responders (TRIAGE) - ESRC funded project starting March 2024.
-- Child Sexual Abuse Conversation Dataset (CSAC): The development of a child sexual abuse conversation dataset, this project will lead to advances in our understanding of how perpetrators of child sex grooming engage online with young people through computer-mediated communication tools and platforms. The dataset will, for the first time, provide researchers with access to real-world grooming conversations (offender side only), laying the foundations for work into reactive and proactive mechanisms for limiting this behaviour across platforms, and improving digital investigation workflows (REPHRAIN Funded).
-- Effective warnings to prevent Authorised Push Payment (APP) frauds: This project is investigating the effectiveness of existing online banking warnings at preventing APP fraud payments, and developing and evaluating novel warning mechanisms.
-- Usable Privacy in Female Health Apps: This project is exploring usable privacy mechanisms within female health apps (Google Faculty Award Funded).
-- Key2Kindness (REPHRAIN funded): This interdisciplinary project is investigating the role of proactive hate speech awareness mechanisms in reducing the production of hate speech across online social platforms (REPHRAIN Funded).
-
 Current PhD Supervision
 ======
 - Lisa Mekioussa Malki - Online privacy research (topic being developed)
@@ -47,6 +37,14 @@ Past Research Fellows/Assistants
 
 I am currently accepting PhD students. Email me: mark(dot)warner(at)ucl(dot)ac(dot)uk
 
+Current research projects
+======
+- Usability and User Experience of Content Report Tools (UseCRT): This project is investigating the usability and user experience of online content reporting tools design to support people to report incidents of harassment (REPHRAIN funded)
+- Towards a Smart Digital Forensic Triage Tool to Support Police First Responders (TRIAGE) - ESRC funded project starting March 2024.
+- Child Sexual Abuse Conversation Dataset (CSAC): The development of a child sexual abuse conversation dataset, this project will lead to advances in our understanding of how perpetrators of child sex grooming engage online with young people through computer-mediated communication tools and platforms. The dataset will, for the first time, provide researchers with access to real-world grooming conversations (offender side only), laying the foundations for work into reactive and proactive mechanisms for limiting this behaviour across platforms, and improving digital investigation workflows (REPHRAIN Funded).
+- Effective warnings to prevent Authorised Push Payment (APP) frauds: This project is investigating the effectiveness of existing online banking warnings at preventing APP fraud payments, and developing and evaluating novel warning mechanisms.
+- Usable Privacy in Female Health Apps: This project is exploring usable privacy mechanisms within female health apps (Google Faculty Award Funded).
+
 Completed projects
 ======
 - Observatory for Monitoring Data Driven Approach to COVID-19 (AHRC): OMDDAC researched data-driven approaches to Covid-19, focusing on legal, ethical, policy and operational/technical challenges. Ther project analysed key data-driven responses to Covid-19 and collated lessons learned throughout the pandemic by way of stakeholder interviews, case study analysis, representative public surveys and practitioner-focussed guidelines. 
@@ -60,6 +58,8 @@ Completed projects
 - Privacy unravelling in online social environments (Marie Skłodowska-Curie PhD fellowship): drawing on theory from the fields of psychology, economics, sociology, and evolutionary biology, to understand people’s online social behaviours. This work was especially interested in how people manage privacy around sensitive information in online social spaces and in particular, the impact non-disclosures can have through the social effect of privacy unravelling.
 
 [CSCW'18 Pub](https://doi.org/10.1007/978-3-030-21752-5_4){: .btn--research} [CHI'19 Pub](https://doi.org/10.1145/3290605.3300922){: .btn--research} [CHI'20 Pub](http://doi.org/10.1145/3313831.3376150){: .btn--research} 
+
+- Key2Kindness (REPHRAIN funded): This interdisciplinary project is investigating the role of proactive hate speech awareness mechanisms in reducing the production of hate speech across online social platforms (REPHRAIN Funded).
 
 Education
 ======
