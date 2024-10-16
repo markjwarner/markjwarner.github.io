@@ -36,8 +36,8 @@ I am currently accepting PhD student applications. Email me: mark(dot)warner(at)
 
 Current Research Fellows/Assistants
 ======
-- Dr Catherine O'Brien (Research Fellow, Triage Project)
-- Dr Valeria Abreu Minero (Snr. Research Fellow, Triage Project)
+- Dr Catherine O'Brien (Research Fellow, Triage and UseCRT Projects)
+- Dr Valeria Abreu Minero (Senior Research Fellow, Triage Project)
 
 Past Research Fellows/Assistants
 ======
@@ -79,8 +79,8 @@ Prior to academia, I worked as an advisor in digital forensics for a criminal in
 
 Updates
 ======
-- Oct-24: I presented the Triage project initial findings at a webinar hosted by The Chartered Society of Forensic Sciences
-- Oct-24: I was awarded (and started) a REPHRAIN funded project to look at the usability and user experience of online content reporting tools.
+- Oct-24: I presented initial findings from the Triage project to the The Chartered Society of Forensic Sciences
+- Oct-24: I was awarded (and started) a REPHRAIN funded project exploring the usability and user experience of online content reporting tools.
 - Sep-24: Dr Val Abreu presented an abstract at Eurocrime'24 on the Triage project.
 - Mar-24: We kicked off the ESRC Triage project with an incredible launch event with some of our key stakeholders
 - Jan-24: We had a CHI'24 paper accepted from our Google Project on Usable Privacy in Female Health Apps
