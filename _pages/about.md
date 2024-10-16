@@ -12,7 +12,7 @@ I am a Lecturer (Assistant Professor) of Information Security in the Computer Sc
 
 In addition to my computer science background, I have an interest in the fields of psychology and sociology. I draw from these disciplines in my research which is centred around understanding and improving various online social interactions and computer and AI-mediated communication behaviours. In particular, I am interested in how social computing technologies can be designed to reduce online harms such as cyberbullying, child abuse, and misinformation spread. Whilst this is my primary area of research, I am also interested in research at the intersection of technology, crime and policing having previously spent over 10 years working within digital policing/forensics. 
 
-Office hours (2022/23)
+Office hours (2024/25)
 ======
 <a href="https://go.oncehub.com/MarkWarner">Click here</a> to book a meeting with me.
 
