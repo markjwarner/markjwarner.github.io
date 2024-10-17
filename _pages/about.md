@@ -70,7 +70,7 @@ Education
   Advisor: Professor Ann Blandford
   Thesis: [Signalling and Unravelling: (Non)Disclosure of HIV Status Information in Sex-Social Apps Used by Men Who Have Sex With Men]
 
-  [Thesis](hhttps://discovery.ucl.ac.uk/id/eprint/10099555/1/WARNER_Thesis_Submit.pdf){: .btn--research}
+  [Thesis](https://discovery.ucl.ac.uk/id/eprint/10099555/1/WARNER_Thesis_Submit.pdf){: .btn--research}
 
 - *MSc in Security Management,* 2016  
   University of Portsmouth, UK  
