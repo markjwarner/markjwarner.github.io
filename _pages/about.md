@@ -61,6 +61,8 @@ Completed projects
 
 - Key2Kindness (REPHRAIN funded): This interdisciplinary project is investigating the role of proactive hate speech awareness mechanisms in reducing the production of hate speech across online social platforms (REPHRAIN Funded).
 
+[Pre-print](https://arxiv.org/pdf/2401.10629){: .btn--research} [pre-print](https://arxiv.org/pdf/2401.10627){: .btn--research}
+
 Education
 ======
 - *PhD in Computer Science / Human-Computer Interaction,* 2020   
